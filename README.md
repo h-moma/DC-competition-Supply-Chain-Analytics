@@ -1,4 +1,4 @@
-# DC-competition-Supply-Chain-Analytics
+## DC-competition-Supply-Chain-Analytics
 
 The main purpose of this data analysis is to help company (JIT) solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create an insightful dashboard to inform business stakeholders about potential problems and propose structural business improvements. 
 
