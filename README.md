@@ -9,3 +9,5 @@ JIT business activity has shown a significant decline in the year 2017, with tot
 - Utilize forecasting to align inventory levels with expected demand, which will reduce inventory costs and shipping delays.
 - Consider reducing warehouse fulfilment time for popular products to better meet shipping demands. 
 
+### Tableau Dashboard Link
+[(https://public.tableau.com/views/dcviz/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)]
